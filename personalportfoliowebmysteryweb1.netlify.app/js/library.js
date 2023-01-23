@@ -1,6 +1,6 @@
 // Typed.js Effect
 let type = new Typed('.typing-text', {
-    strings: ['Web Developer', 'Programmer', 'Freelancer', 'Web Designer'],
+    strings: ['Flutter Developer', 'Mobile-Web Specialist','Network Administrator', 'Web Designer (FrontEnd)'],
     typeSpeed: 100,
     loop: true
 });
